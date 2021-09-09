@@ -15,7 +15,7 @@ Implementation of Singular Value Decomposition from scratch using Jacobi method 
 
 ## [Lab 3](https://github.com/vladiq/MAI-Numerical-Methods-class/blob/main/lab_3/lab_3.ipynb)
 3.1 Lagrange and Newton polynomials.  
-3.2 Implementation of the Qubic Spline.  
+3.2 Implementation of Cubic Spline.  
 3.3 Least Squares Algorithm.  
 3.4 Computing Derivatives using Numerical Methods.  
 3.5 Computing Integrals: Rectangular and Trapezoidal Methods, Simpson's Rule. Runge-Kutta Method.
